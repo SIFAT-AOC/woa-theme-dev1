@@ -1,0 +1,82 @@
+
+
+
+@font-face {
+  font-family: Ovo;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//fashioncorp24.myshopify.com/cdn/fonts/ovo/ovo_n4.d4662dd1e5e1c74c64a3a15f50c51f82bd9ade07.woff2?h1=ZmFzaGlvbmNvcnAyNC5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=658e67c2e997030602b02b64acb2607d2d5359b033826dc0f407fb88ce36bc9c") format("woff2"),
+       url("//fashioncorp24.myshopify.com/cdn/fonts/ovo/ovo_n4.9f9fd71531ae16cc1b491b752b0b48dae8352342.woff?h1=ZmFzaGlvbmNvcnAyNC5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=a72554e199ec8801632cf2406e43ed43d748776ad7c30287f7175b91beb39fd5") format("woff");
+}
+
+@font-face {
+  font-family: "Avenir Next";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//fashioncorp24.myshopify.com/cdn/fonts/avenir_next/avenirnext_n4.7fd0287595be20cd5a683102bf49d073b6abf144.woff2?h1=ZmFzaGlvbmNvcnAyNC5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=66bdb7a9052814871d3e1a1b4fc7c544f4d97f2949d6f8002b40df720119d633") format("woff2"),
+       url("//fashioncorp24.myshopify.com/cdn/fonts/avenir_next/avenirnext_n4.a26a334a0852627a5f36b195112385b0cd700077.woff?h1=ZmFzaGlvbmNvcnAyNC5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=a9ce89c888b93bd179b63ddcc7cbf2659c7be73a018bb625f480ee2200487716") format("woff");
+}
+
+@font-face {
+  font-family: "Avenir Next";
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("//fashioncorp24.myshopify.com/cdn/fonts/avenir_next/avenirnext_n5.972a96b7a049f12c89d6d1cd0e1b6c9211f7ba14.woff2?h1=ZmFzaGlvbmNvcnAyNC5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=e5c7b51073a4c9a2a91ac82b3dc239640d0a9a1d10227f2cfd6029b6efaeb2b4") format("woff2"),
+       url("//fashioncorp24.myshopify.com/cdn/fonts/avenir_next/avenirnext_n5.9e88d20fa9eb66ba268ac60ab013006ef69a310a.woff?h1=ZmFzaGlvbmNvcnAyNC5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=f6ea868f59ee82b3fcd509acb09f284d8ec42c236ffe9a43c4a4fe271d647444") format("woff");
+}
+
+
+
+
+
+  @font-face {
+  font-family: "Avenir Next";
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url("//fashioncorp24.myshopify.com/cdn/fonts/avenir_next/avenirnext_n6.08f6a09127d450aa39c74986de08fd8fa84e6a11.woff2?h1=ZmFzaGlvbmNvcnAyNC5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=f2b3e48106785f7fdd179d4d6e6fe64c017394cb6cf99277b8059f02a3f3fe72") format("woff2"),
+       url("//fashioncorp24.myshopify.com/cdn/fonts/avenir_next/avenirnext_n6.bd2f76897d6f40c767db7c40226916ec7b6ffc65.woff?h1=ZmFzaGlvbmNvcnAyNC5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=a1893bf768e3b7098bfa49df3244cbe3c08353a82921c12a324bebe5002530b8") format("woff");
+}
+
+
+
+
+  @font-face {
+  font-family: "Avenir Next";
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("//fashioncorp24.myshopify.com/cdn/fonts/avenir_next/avenirnext_n5.972a96b7a049f12c89d6d1cd0e1b6c9211f7ba14.woff2?h1=ZmFzaGlvbmNvcnAyNC5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=e5c7b51073a4c9a2a91ac82b3dc239640d0a9a1d10227f2cfd6029b6efaeb2b4") format("woff2"),
+       url("//fashioncorp24.myshopify.com/cdn/fonts/avenir_next/avenirnext_n5.9e88d20fa9eb66ba268ac60ab013006ef69a310a.woff?h1=ZmFzaGlvbmNvcnAyNC5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=f6ea868f59ee82b3fcd509acb09f284d8ec42c236ffe9a43c4a4fe271d647444") format("woff");
+}
+
+
+
+
+
+
+
+  @font-face {
+  font-family: "Avenir Next";
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url("//fashioncorp24.myshopify.com/cdn/fonts/avenir_next/avenirnext_i4.f1583d9f457b68e44fbda187a48b4096d547d7f4.woff2?h1=ZmFzaGlvbmNvcnAyNC5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=730d9370c4d429e881043d0e4461ebb9e05e8757abba70be872a24a2d404a6b7") format("woff2"),
+       url("//fashioncorp24.myshopify.com/cdn/fonts/avenir_next/avenirnext_i4.67fb53a3e0351125941146246183577ae8d8bf23.woff?h1=ZmFzaGlvbmNvcnAyNC5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=c43f2b1885eda68bfbc9649aace0f78d67ce6b41efee4a5ef7bf1e1683ff7bc4") format("woff");
+}
+
+
+
+  @font-face {
+  font-family: "Avenir Next";
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+  src: url("//fashioncorp24.myshopify.com/cdn/fonts/avenir_next/avenirnext_i5.2d1a6d537e5b485482d6bcca34a56cc10d441a55.woff2?h1=ZmFzaGlvbmNvcnAyNC5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=8c9b24c1426f81ac60ad578a4ed5f6ac15a66b231c3db09d6a1c24ba76e12b12") format("woff2"),
+       url("//fashioncorp24.myshopify.com/cdn/fonts/avenir_next/avenirnext_i5.fcfa37c68ca483c41031623bfae4701d99bb4b95.woff?h1=ZmFzaGlvbmNvcnAyNC5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=5d88e605713de9d8956bb18a39a55cfc70c8ffc895a3cf3018bfe6070bf76dcd") format("woff");
+}
+
+
